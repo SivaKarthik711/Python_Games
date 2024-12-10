@@ -25,7 +25,6 @@ def getClues(guess, secretNum):
     if len(clues) == 0:
         return 'Bagels'
     else:
-        clues.sort()
         return ''.join(clues)
 
 def main():
