@@ -3,7 +3,7 @@ This repository contains the projects which I have inspired and practiced from t
 - [Project #1: **Bagel**](Bagles/)
 - [Project #2: **Birthday Paradox**](BirthdayParadox/)
 - [Project #3: **Bitmap Message**](Bitmap/)
-- Project #4: **Blackjack**
+- [Project #4: **Blackjack**](Blackjack/)
 - Project #5: **Bouncing DVD Logo**
 - Project #6: **Caesar Cipher**
 - Project #7: **Caesar Hacker**
